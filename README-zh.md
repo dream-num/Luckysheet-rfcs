@@ -40,7 +40,7 @@ RFC （Request For Comments）就是一种为了保证重大特性更新和架�
 
 - Fork Luckysheet RFC 仓库： http://github.com/mengshukeji/Luckysheet-rfcs；
 - 复制 `0000-template-zh.md` 到 `active-rfcs/0000-my-feature.md` （`my-feature` 需要更改为一个能够描述该 RFC 的词语，`0000` 是 RFC 的序号，先不用更改）；
-- 根据模板 active/0000-my-feature 填充 RFC 提案：RFC 需要描述清晰的动机与原因、展示具体的案例和设计的细节、以及可能造成的问题。RFC 提案进入 `Pending` 阶段；
+- 根据模板 active-rfcs/0000-my-feature 填充 RFC 提案：RFC 需要描述清晰的动机与原因、展示具体的案例和设计的细节、以及可能造成的问题。RFC 提案进入 `Pending` 阶段；
 - 向 Luckysheet RFC 仓库发起 Pull Request。在这个阶段 Luckysheet 团队和社区一同讨论 RFC 提案；
 - RFC 提案在社区中达成共识，RFC 提案进入 `Active` 阶段；
 - RFC 提案的代码实现在 Luckysheet 主仓库被合并，RFC 提案进入 `Landed` 阶段，RFC 提案也会被合并进入 RFC 仓库；
